@@ -1,11 +1,7 @@
 # docker_containers
 
-# step 1: create network
+step 1: create network
 
-# step 2: run  Nginx container
+step 2: run  Nginx, Apache, Postgres containers
 
-# step 3: run Postgres container
-
-# step 4: run Apache container
-
-# step 5: test Nginx webpage
+step 3: test Nginx webpage
